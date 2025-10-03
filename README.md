@@ -1,2 +1,4 @@
 # Mi Primer ReadMe
-## Esto es un subtitulo
+
+
+Este es una breve descripción de lo que es mi primera interacción con GIT
